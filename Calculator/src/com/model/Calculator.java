@@ -12,4 +12,8 @@ public class Calculator {
 		System.out.println(a+b);
 	}
 
+	public int subtraction(){
+
+		return 10-5;
+
 }
