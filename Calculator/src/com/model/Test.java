@@ -6,6 +6,7 @@ public class Test {
 		
 		Calculator c = new Calculator();
 		c.add();
+		System.out.println(c.subtraction());
 	}
 
 }

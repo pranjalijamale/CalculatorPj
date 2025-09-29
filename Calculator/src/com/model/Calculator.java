@@ -13,7 +13,9 @@ public class Calculator {
 	}
 
 	public int subtraction(){
+		System.out.println();
 
 		return 10-5;
 
+}
 }
